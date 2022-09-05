@@ -1,6 +1,6 @@
 ### About me 
 
-I'm Tiago Costa, mostly known as ShiiVa, and i'm a student at University of Minho, where i'm getting a degree in Software Engineering.
+I'm Tiago Costa, mostly known as ShiiVa, i'm a Software Engineer and i'm a student at University of Minho, where i'm getting a master's degree in Software Engineering.
 
 If you want to contact me just add me on Discord : Shiiva#9653 or you can follow me on [![Twitter][1.2]][1]
 
