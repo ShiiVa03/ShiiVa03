@@ -2,12 +2,10 @@
 
 I am a Junior Software Engineer with a keen interest in Machine Learning and DevOps, with 1y experience in work as a Software Engineer working in the area of AI/ML and MLOps/Cloud. 
 
-If you want to contact me just add me on Discord : shi1va or you can follow me on [![Linkedin][1.2]][1]
-
-
-<!-- Icons -->
-
-[1.2]: https://www.flaticon.com/free-icon/linkedin-logo_61109?term=linkedin&page=1&position=3&origin=tag&related_id=61109
+If you want to contact me just add me on Discord: shi1va or you can follow me on 
+<a href="https://www.linkedin.com/in/tiago-costa10/" style="vertical-align: middle; text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" style="width: 16px; height: 16px; vertical-align: middle;">
+</a>.
 
 
 <!-- Links to your social media accounts -->
