@@ -1,8 +1,8 @@
 ### About me 
 
-I am a Junior Software Engineer with a keen interest in Machine Learning and DevOps, with 1y experience in work as a Software Engineer working in the area of AI/ML and MLOps/Cloud. 
+Machine Learning Engineer with a software engineering background and 2+ years of experience building scalable MLOps pipelines. Skilled in MLflow, Kubeflow, Databricks, and Azure Pipelines. Focused on cloud automation, model deployment, and production-grade AI systems.
 
-If you want to contact me just add me on Discord: shi1va or you can follow me on 
+If you want to contact me follow me on 
 <a href="https://www.linkedin.com/in/tiago-costa10/" style="display: inline-block; text-decoration: none; border: none; padding: 0; background: none; cursor: pointer; text-decoration:none !important;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" style="width: 16px; height: 16px; vertical-align: middle;">
 </a>.
